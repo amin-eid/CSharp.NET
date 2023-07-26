@@ -1,0 +1,13 @@
+C:\Users\EidAmin\Desktop\C#\FirstCsharp\bin\Debug\netcoreapp3.1\C#.exe
+C:\Users\EidAmin\Desktop\C#\FirstCsharp\bin\Debug\netcoreapp3.1\C#.deps.json
+C:\Users\EidAmin\Desktop\C#\FirstCsharp\bin\Debug\netcoreapp3.1\C#.runtimeconfig.json
+C:\Users\EidAmin\Desktop\C#\FirstCsharp\bin\Debug\netcoreapp3.1\C#.runtimeconfig.dev.json
+C:\Users\EidAmin\Desktop\C#\FirstCsharp\bin\Debug\netcoreapp3.1\C#.dll
+C:\Users\EidAmin\Desktop\C#\FirstCsharp\bin\Debug\netcoreapp3.1\C#.pdb
+C:\Users\EidAmin\Desktop\C#\FirstCsharp\obj\Debug\netcoreapp3.1\C#.csprojAssemblyReference.cache
+C:\Users\EidAmin\Desktop\C#\FirstCsharp\obj\Debug\netcoreapp3.1\C#.AssemblyInfoInputs.cache
+C:\Users\EidAmin\Desktop\C#\FirstCsharp\obj\Debug\netcoreapp3.1\C#.AssemblyInfo.cs
+C:\Users\EidAmin\Desktop\C#\FirstCsharp\obj\Debug\netcoreapp3.1\C#.csproj.CoreCompileInputs.cache
+C:\Users\EidAmin\Desktop\C#\FirstCsharp\obj\Debug\netcoreapp3.1\C#.dll
+C:\Users\EidAmin\Desktop\C#\FirstCsharp\obj\Debug\netcoreapp3.1\C#.pdb
+C:\Users\EidAmin\Desktop\C#\FirstCsharp\obj\Debug\netcoreapp3.1\C#.genruntimeconfig.cache
