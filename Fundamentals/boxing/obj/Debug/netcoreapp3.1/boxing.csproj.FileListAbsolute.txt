@@ -1,0 +1,13 @@
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\boxing\obj\Debug\netcoreapp3.1\boxing.csprojAssemblyReference.cache
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\boxing\obj\Debug\netcoreapp3.1\boxing.AssemblyInfoInputs.cache
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\boxing\obj\Debug\netcoreapp3.1\boxing.AssemblyInfo.cs
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\boxing\obj\Debug\netcoreapp3.1\boxing.csproj.CoreCompileInputs.cache
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\boxing\bin\Debug\netcoreapp3.1\boxing.exe
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\boxing\bin\Debug\netcoreapp3.1\boxing.deps.json
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\boxing\bin\Debug\netcoreapp3.1\boxing.runtimeconfig.json
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\boxing\bin\Debug\netcoreapp3.1\boxing.runtimeconfig.dev.json
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\boxing\bin\Debug\netcoreapp3.1\boxing.dll
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\boxing\bin\Debug\netcoreapp3.1\boxing.pdb
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\boxing\obj\Debug\netcoreapp3.1\boxing.dll
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\boxing\obj\Debug\netcoreapp3.1\boxing.pdb
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\boxing\obj\Debug\netcoreapp3.1\boxing.genruntimeconfig.cache
