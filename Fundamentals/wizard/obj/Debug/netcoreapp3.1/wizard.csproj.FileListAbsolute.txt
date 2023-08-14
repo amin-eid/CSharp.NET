@@ -1,0 +1,13 @@
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\wizard\obj\Debug\netcoreapp3.1\wizard.csprojAssemblyReference.cache
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\wizard\obj\Debug\netcoreapp3.1\wizard.AssemblyInfoInputs.cache
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\wizard\obj\Debug\netcoreapp3.1\wizard.AssemblyInfo.cs
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\wizard\obj\Debug\netcoreapp3.1\wizard.csproj.CoreCompileInputs.cache
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\wizard\bin\Debug\netcoreapp3.1\wizard.exe
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\wizard\bin\Debug\netcoreapp3.1\wizard.deps.json
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\wizard\bin\Debug\netcoreapp3.1\wizard.runtimeconfig.json
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\wizard\bin\Debug\netcoreapp3.1\wizard.runtimeconfig.dev.json
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\wizard\bin\Debug\netcoreapp3.1\wizard.dll
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\wizard\bin\Debug\netcoreapp3.1\wizard.pdb
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\wizard\obj\Debug\netcoreapp3.1\wizard.dll
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\wizard\obj\Debug\netcoreapp3.1\wizard.pdb
+C:\Users\EidAmin\Desktop\amin-eid-git\C#\Fundamentals\wizard\obj\Debug\netcoreapp3.1\wizard.genruntimeconfig.cache
